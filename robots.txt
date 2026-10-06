@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://aydentra.com/sitemap.xml
